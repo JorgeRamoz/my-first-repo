@@ -1,5 +1,7 @@
 # my-first-repo
 
-Hello everybody!
+Hello my friend!
 
 I must insist that you take a sit before we discuss the situation.
+
+Don't get offended, you will love my offer.
